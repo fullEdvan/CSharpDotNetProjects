@@ -34,7 +34,7 @@ decimal notaNicolas = (decimal) somaNicolas / notasParciais;
 decimal notaZahirah = (decimal) somaZahirah / notasParciais;
 decimal notaJeong = (decimal) somaJeong / notasParciais;
 
-Console.WriteLine("Student\t\tGrade\n");
+Console.WriteLine("Estudante\tNota\n");
 Console.WriteLine("Sophia:\t\t" + notaSophia + "\tA");
 Console.WriteLine("Nicolas:\t" + notaNicolas + "\tB");
 Console.WriteLine("Zahirah:\t" + notaZahirah + "\tB");
